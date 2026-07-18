@@ -189,7 +189,7 @@ Based on the analysis:
 
 This repository contains:
 
-- Excel Dashboard Workbook 📥 [Download the Excel Dashboard](Retail_Sales_Performance_Dashboard.xlsx.)
+- Excel Dashboard Workbook 📥 [Download the Excel Dashboard](Retail_Sales_Performance_Dashboard1.xlsx)
 - Dashboard Screenshot ![Dashboard](Dashboard.png)
 - Project Documentation
 - README ![README](README.md)
